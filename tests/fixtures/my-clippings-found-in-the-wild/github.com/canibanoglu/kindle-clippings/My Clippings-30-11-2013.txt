@@ -1,0 +1,200 @@
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 3 | Location 44 | Added on Friday, November 29, 2013 8:29:09 PM
+
+This is why C and similar languges are awful for newcomers
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 3 | Location 43-44 | Added on Friday, November 29, 2013 8:29:09 PM
+
+Every skill has what I call a frustration barrier—a period of time in which you’re horribly unskilled, and you’re painfully aware of that fact.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 10 | Location 152 | Added on Friday, November 29, 2013 8:37:50 PM
+
+I think it's why pretty much no one really knows what they're talking about
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 10 | Location 152-152 | Added on Friday, November 29, 2013 8:37:50 PM
+
+The desire for instant gratification is one of the primary reasons people don’t acquire new skills very quickly.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 14 | Location 201 | Added on Friday, November 29, 2013 8:42:15 PM
+
+It is interesting how he draws a line between learning and skill acquisition. I have to think about this
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 14 | Location 201-201 | Added on Friday, November 29, 2013 8:42:16 PM
+
+The trouble comes when we confuse learning with skill acquisition.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Bookmark on Page 252 | Location 3864 | Added on Friday, November 29, 2013 8:45:35 PM
+
+
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Bookmark on Page 253 | Location 3868 | Added on Friday, November 29, 2013 8:48:31 PM
+
+
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 19 | Location 286 | Added on Friday, November 29, 2013 8:51:00 PM
+
+Great quote. Another way of saying that repetition is the key
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 19 | Location 284-286 | Added on Friday, November 29, 2013 8:51:00 PM
+
+I realized that becoming a master of karate was not about learning 4,000 moves but about doing just a handful of moves 4,000 times. —CHET HOLMES, AUTHOR OF THE ULTIMATE SALES MACHINE
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 253 | Location 3872 | Added on Friday, November 29, 2013 8:54:37 PM
+
+I should read this
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 253 | Location 3870-3872 | Added on Friday, November 29, 2013 8:54:37 PM
+
+If you can relate to my frustration, I recommend reading The Renaissance Soul: Life Design for People with Too Many Passions to Pick Just One by Margaret Lobenstine (New York: Harmony, 2006).
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 23 | Location 351 | Added on Friday, November 29, 2013 8:57:39 PM
+
+This is a great way of covering edge cases, I found it funny while reading
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 23 | Location 350-351 | Added on Friday, November 29, 2013 8:57:39 PM
+
+It’s important to note that some skills have safety considerations, which you should always include in your target performance level. Getting hurt (or killed) acquiring a new skill defeats the purpose.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 25 | Location 381 | Added on Friday, November 29, 2013 9:00:44 PM
+
+So true...
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 25 | Location 380-381 | Added on Friday, November 29, 2013 9:00:44 PM
+
+Here’s the truth: “finding” time is a myth.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 82 | Location 1256 | Added on Saturday, November 30, 2013 2:13:31 AM
+
+This is what's wrong with programming education. Learning bubble sort and other stuff that's not often used is important for several reasons. We just have to make the student understand that reason.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 82 | Location 1255-1256 | Added on Saturday, November 30, 2013 2:13:31 AM
+
+I remember my professor saying things like “you’ll never use a bubble sort for a real application, but we’re going to learn it anyway.”
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 83 | Location 1258 | Added on Saturday, November 30, 2013 2:15:47 AM
+
+This is nother thing that we have to correct. The student should understand that even though what he's writing may not he useful it instills in him some basic concept that will be very useful later on.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 83 | Location 1257-1258 | Added on Saturday, November 30, 2013 2:15:47 AM
+
+Unfortunately, the programs we were writing had no real use outside of the classroom, and I haven’t used these concepts in a long time.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 88 | Location 1338 | Added on Saturday, November 30, 2013 2:23:17 AM
+
+This model of exercise can be *very* useful to new comers. Expressing parts of our daily lives in pseudocode would make it easier for people to better understand how programming works
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 88 | Location 1336-1338 | Added on Saturday, November 30, 2013 2:23:17 AM
+
+Here’s a fun way of trying this yourself. Find a friend, and ask them to help you complete a simple task like “make a sandwich.” The only rule is that your friend can only do exactly what you tell him, nothing more, nothing less. He is not allowed to assume knowledge of anything, and has to take every request literally.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 89 | Location 1361 | Added on Saturday, November 30, 2013 2:25:52 AM
+
+I will write that "make it so compiler" mentioned in "The Pragmatic Programmer"!!
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 89 | Location 1359-1361 | Added on Saturday, November 30, 2013 2:25:52 AM
+
+Once you get used to the fact that the computer can’t read your mind, you learn to start giving commands the system can understand, in the same way you learned to explicitly define terms and demonstrate basic actions to your friend in the “Sandwich Game” before giving complex commands.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 91 | Location 1388 | Added on Saturday, November 30, 2013 2:29:54 AM
+
+Heh, nice abstraction. I wonder how many people actually realize that the "magic" just consists of those ifs and whiles they've just read about
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 91 | Location 1388-1389 | Added on Saturday, November 30, 2013 2:29:54 AM
+
+Here’s where it gets cool: imagine your stack of index cards is now a magic stack of index cards.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 92 | Location 1401 | Added on Saturday, November 30, 2013 2:31:34 AM
+
+I certainly hope that no one takes this literally.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 92 | Location 1400-1401 | Added on Saturday, November 30, 2013 2:31:34 AM
+
+If Smith left the application, but came back later, the application would recognize the cookie and grant him access without requiring another login.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 106 | Location 1617 | Added on Saturday, November 30, 2013 2:43:01 AM
+
+Hehe, remove those q!uotation marks
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 106 | Location 1617-1617 | Added on Saturday, November 30, 2013 2:43:01 AM
+
+What does sum equal? “2000000”
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 106 | Location 1617 | Added on Saturday, November 30, 2013 2:44:37 AM
+
+Hehe, remove those quotation marks!
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 106 | Location 1617-1617 | Added on Saturday, November 30, 2013 2:44:37 AM
+
+What does sum equal? “2000000”
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 118 | Location 1807 | Added on Saturday, November 30, 2013 2:52:02 AM
+
+Not strictly true 
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 118 | Location 1807-1807 | Added on Saturday, November 30, 2013 2:52:02 AM
+
+There are three additional HTTP “verbs”:
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 120 | Location 1834 | Added on Saturday, November 30, 2013 2:54:48 AM
+
+I wonder if the author is still using this logic. jekyll alone would have been enough. 
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 120 | Location 1833-1834 | Added on Saturday, November 30, 2013 2:54:48 AM
+
+That means I have to create a new route in Sinatra to read a file in response to the user’s GET request.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 122 | Location 1868 | Added on Saturday, November 30, 2013 2:57:01 AM
+
+Haha and I thought Keneth Reitz's post on Medium was the start of this.
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 122 | Location 1867-1868 | Added on Saturday, November 30, 2013 2:57:01 AM
+
+While researching Jekyll, I read an essay by Tom Preston-Werner, the programmer who created Jekyll, called “Readme Driven Development.”
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Note on Page 176 | Location 2688 | Added on Saturday, November 30, 2013 12:38:56 PM
+
+That's the thing, chess isn't played by computers using brute force
+==========
+﻿The First 20 Hours: How to Learn Anything . . . Fast! (Josh Kaufman)
+- Your Highlight on Page 176 | Location 2686-2688 | Added on Saturday, November 30, 2013 12:38:56 PM
+
+Given current technology, it would take even the most sophisticated computers running the best brute-force algorithms about four hundred years to calculate a single optimal move, assuming the program completed a calculation every few milliseconds.
+==========

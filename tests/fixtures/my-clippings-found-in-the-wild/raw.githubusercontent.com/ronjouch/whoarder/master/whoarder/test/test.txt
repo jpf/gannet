@@ -1,0 +1,90 @@
+﻿_BOOK_ (_AUTHOR_LAST_NAME_, _AUTHOR_FIRST_NAME_)
+- Your _TYPE_ on Page 42 | Location 123-321 | Added on _DATE_
+
+contents
+==========
+﻿Title With a Long Name (Author 1 Name, Author 1 First Name)
+- Your Highlight on Page 7 | Location 117-119 | Added on Tuesday, April 9, 2013 7:21:15 PM
+
+“Remarkable quote about stuff,” said John P., “especially now.”
+==========
+﻿Title With a Long Name (Author 1 Name, Author 1 First Name)
+- Your Note on Unnumbered Page | Location 118 | Added on Tuesday, April 9, 2013 7:23:45 PM
+
+See Le Petit Prince
+==========
+﻿Title With a Long Name (Author 1 Name, Author 1 First Name)
+- Your Highlight on Unnumbered Page | Location 218-219 | Added on Tuesday, April 9, 2013 7:37:21 PM
+
+John Doe remarked: “Man, yeah.”
+==========
+﻿Title With a Long Name (Author 1 Name, Author 1 First Name)
+- Your Highlight on Page 8 | Location 348-352 | Added on Tuesday, April 9, 2013 8:21:06 PM
+
+Strange characters like @!#$!(&$)%!($*#)($#)@!&$()#!@*$)!@&$!@)*#$&@(!éfèôâfüwej)
+==========
+﻿Walden (Thoreau, Henry David)
+- Your Highlight on Page 3 | Location 45-48 | Added on Wednesday, April 17, 2013 7:45:27 AM
+
+Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor. Ramblings on labor.
+==========
+﻿Walden (Thoreau, Henry David)
+- Your Highlight on Page 3 | Location 52-53 | Added on Wednesday, April 17, 2013 7:46:02 AM
+
+Ramblings on nature. Ramblings on nature. Ramblings on nature. Ramblings on nature. Ramblings on nature. Ramblings on nature. Ramblings on nature. Ramblings on nature. Ramblings on nature. Ramblings on nature.
+==========
+﻿Walden (Thoreau, Henry David)
+- Your Highlight on Page 3 | Location 52-55 | Added on Wednesday, April 17, 2013 7:47:22 AM
+
+Market makes us into machines. Market makes us into machines. Market makes us into machines. Market makes us into machines. Market makes us into machines. Market makes us into machines. Market makes us into machines. Market makes us into machines. Market makes us into machines. Market makes us into machines.
+==========
+﻿The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Your Highlight on Page 27 | Location 404-404 | Added on Saturday, April 27, 2013 5:29:07 PM
+
+Uncle bob telling us that practice is important.
+==========
+﻿The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Your Highlight on Page 27 | Location 403-406 | Added on Saturday, April 27, 2013 5:29:35 PM
+
+Uncle bob telling us about detail detail detail detail detail detail detail detail, and the broken window metaphor
+==========
+﻿The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Your Highlight on Page 29 | Location 435-435 | Added on Saturday, April 27, 2013 5:33:42 PM
+
+Uncle bob telling us about readability.
+==========
+﻿The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Your Highlight on Page 31 | Location 462-464 | Added on Saturday, April 27, 2013 5:38:22 PM
+
+Uncle bob telling us about indentation style and bug density.
+==========
+﻿Essays from the Nick of Time: Reflections and Refutations (Slouka, Mark)
+- Your Highlight on Page 6 | Location 128-131 | Added on Sunday, May 19, 2013 1:32:46 AM
+
+Slouka on progress and numbers.
+==========
+Boneshaker (Priest, Cherie)
+- Your Bookmark Location 441 | Added on Monday, December 30, 2013 6:59:23 PM
+
+
+==========
+ Your Kindle is updated! (Amazon)
+- Your Bookmark on Location 10 | Added on Tuesday, March 11, 2014 7:20:18 PM
+
+
+==========
+﻿Essays from the Nick of Time: Reflections and Refutations (Slouka, Mark)
+- Your Highlight on Page 20 | Location 296-296 | Added on Sunday, May 19, 2013 2:01:07 AM
+
+Slouka talking about understanding and shaping and understanding and shaping and understanding and shaping and understanding and shaping and understanding and shaping and understanding and shaping.
+==========
+﻿Essays from the Nick of Time: Reflections and Refutations (Slouka, Mark)
+- Your Highlight on Page 40 | Location 557-558 | Added on Monday, May 20, 2013 12:02:43 AM
+
+Slouka quoting Thoreau about margins to life and space and silence and the forming of self and space and silence and the forming of self and space and silence and the forming of self.
+==========
+Bogus Highlight
+nonsense
+
+This Highlight should fail to import and log an error message
+==========
