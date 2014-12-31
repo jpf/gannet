@@ -60,15 +60,15 @@ record_create_date = (
     time.setResultsName('time'))
 
 location_matcher = match('Location') + kindle_location + match('|')
-location_range = location_matcher.setResultsName('location')
+location_range = location_matcher.setResultsName('locations')
 
 page_matcher = (
     match('on') +
     pp.Or([numbered_page, unnumbered_page]) +
     match('|'))
-page_range = page_matcher.setResultsName('page')
+page_range = page_matcher.setResultsName('pages')
 
-record_type = match('Your') + word.setResultsName('record_type')
+record_type = match('Your') + word.setResultsName('type')
 
 note_information_line_parser = (
     record_start +
@@ -107,7 +107,7 @@ def make_clipping(book_information_line,
                   note_information_line,
                   note_contents_line):
     info = note_information_line_parser.parseString(note_information_line)
-    # Remove UTF-8 BOM, if present.
+    # If present, remove the UTF-8 BOM code point
     if book_information_line.startswith(u'\ufeff'):
         book_information_line = book_information_line[1:]
     book_information_line = book_information_line.strip()
@@ -116,38 +116,71 @@ def make_clipping(book_information_line,
     record = {}
     record['title'] = ' '.join(list(spine['title']))
     authors = spine['author'].split(';')
-    record['authors'] = authors
-    # FIXME: Detect locations where the start and end are the same
-    # FIXME: Turn page and location numbers into integers
-    for key in ['record_type', 'page', 'location']:
+    record['authors'] = []
+    for author in authors:
+        fixed = author
+        if ',' in author:
+            (last_name, first_name) = author.split(',')
+            fixed = "{} {}".format(first_name.strip(), last_name.strip())
+        record['authors'].append(fixed)
+    # FIXME: Turn page and location numbers into integers?
+    for key in ['type', 'pages', 'locations']:
         if key not in info:
             continue
         value = info[key]
         if type(info[key]) is pp.ParseResults:
-            value = list(info[key])
+            value = list(sorted(set(info[key])))
         record[key] = value
     if 'date' in info and 'time' in info:
         datetime = date_time_to_datetime(info['date'], info['time'])
         record['date'] = datetime.strftime('%Y-%m-%dT%H:%M:%S.000Z')
+    # if record['type'] == "Highlight":
+    #     record['highlight'] = note_contents_line.strip()
     record['content'] = note_contents_line.strip()
     return record
 
 
 def parse_my_clippings(clips, hide_errors=True):
     found = []
+    last = None
     for book_information_line in clips:
         note_information_line = clips.next()
         clips.next()
         note_contents_line = clips.next()
         clips.next()
+
+        clipping = None
         try:
             clipping = make_clipping(book_information_line,
                                      note_information_line,
                                      note_contents_line)
-            found.append(clipping)
         except Exception, e:
             if hide_errors:
                 continue
             else:
                 raise(e)
+
+        if clipping is None:
+            continue
+
+        if clipping['type'] == 'Note':
+            last = clipping
+            continue
+
+        if (last is not None and clipping['type'] == 'Highlight'):
+            loc = last['locations'][0]
+            highlight_begin = clipping['locations'][0]
+            highlight_end = highlight_begin
+            if len(clipping['locations']) > 1:
+                highlight_end = clipping['locations'][1]
+            if highlight_begin <= loc <= highlight_end:
+                clipping['note'] = last['content']
+            last = None
+
+        if clipping['type'] == 'Highlight':
+            clipping['highlight'] = clipping['content']
+            del(clipping['content'])
+
+        found.append(clipping)
+
     return found
