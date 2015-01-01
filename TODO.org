@@ -1,4 +1,5 @@
-* Name: "the_gannet"
+* DONE Name: "gannet"
+  CLOSED: [2015-01-01 Thu 12:34]
 * DONE Add tests
   CLOSED: [2014-12-30 Tue 01:27]
 * TODO Add extended tests

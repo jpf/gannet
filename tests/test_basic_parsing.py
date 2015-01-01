@@ -1,7 +1,7 @@
 import unittest
 import codecs
 
-from the_gannet import parse_my_clippings
+from gannet import parse_my_clippings
 
 
 class TestBasicParsing(unittest.TestCase):

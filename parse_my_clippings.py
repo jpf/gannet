@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from the_gannet import parse_my_clippings
+from gannet import parse_my_clippings
 import codecs
 import json
 import sys
