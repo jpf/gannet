@@ -25,7 +25,7 @@ with codecs.open(sys.argv[1], 'r', 'utf-8') as f:
 
 # To convert a "My Clippings.txt" file to JSON
 ```
-$ python parse_my_clippings.py "My Clippings.txt" 
+$ python clippings-to-json.py "My Clippings.txt" 
 ```
 
 
