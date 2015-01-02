@@ -60,7 +60,11 @@ class TestBasicParsing(unittest.TestCase):
         self.assertEqual('2545', record['locations'][1])
 
     # "Coleman-Coding-Freedom"
-    # test_has_no_author
+    def test_has_no_author(self):
+        record = self.record_with_title('Coleman-Coding-Freedom')
+        self.assertNotEqual(None, record)
+        self.assertNotIn('authors', record)
+        self.assertEqual('Coleman-Coding-Freedom', record['title'])
 
     def test_note_included_into_highlight(self):
         record = self.record_with_title('Constellation Games')
@@ -76,11 +80,6 @@ class TestBasicParsing(unittest.TestCase):
                     'Volume 3 (Star Wars: The Thrawn Trilogy)')
         self.assertEqual(expected, record['title'])
         self.assertEqual('Timothy Zahn', record['authors'][0])
-
-    # "Orthodoxy"
-    @unittest.skip("We can't handle these types of records yet.")
-    def test_can_handle_timezone_in_date_field(self):
-        pass
 
     def test_locations_numbers_cleanup(self):
         record = self.record_with_title('Neuromancer')
